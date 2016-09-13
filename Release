@@ -1,0 +1,8 @@
+Origin: Arthur da Paz
+Label: Arthur da Paz
+Suite: stable
+Version: 1.0
+Codename: arthurdapaz
+Architectures: iphoneos-arm
+Components: main
+Description: Personal games and iOS hacking repo
