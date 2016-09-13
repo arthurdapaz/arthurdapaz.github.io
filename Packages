@@ -7,6 +7,6 @@ Description: Ban preventing tool and hacks for MC5 v201
 Maintainer: Arthur da Paz <arthurdapaz@me.com>
 Author: Arthur da Paz <arthurdapaz@me.com>
 Section: Tweaks
-Filename: debs//packagename.deb
+Filename: debs//com.arthurdapaz.mckill_1.1-31_iphoneos-arm.deb
 Depiction: https://arthurdapaz.github.io/depic/mckill/index.html
 Size: 8217
