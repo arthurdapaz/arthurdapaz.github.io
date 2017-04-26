@@ -1,0 +1,7 @@
+#!/bin/sh
+rm -rf Packages*
+dpkg-scanpackages -m debs/ . > Packages
+gzip Packages
+git add .
+git commit -m "update"
+git push
